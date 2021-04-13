@@ -1,0 +1,25 @@
+body {
+    text-align: center;
+    font-family: cursive;
+}
+#about {
+   padding-left: 200px;
+    padding-right: 200px;
+    z-index: 9;
+}
+#Home {
+    background: linear-gradient(purple, white)
+}
+#Academics {
+    background: linear-gradient(purple, white)
+        
+}
+#aabout {
+    padding-left: 200px;
+    padding-right: 200px;
+    color: white;
+    
+}
+#schoolpic {
+    background-color: cyan;
+}
